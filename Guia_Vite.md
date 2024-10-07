@@ -30,8 +30,8 @@ En el proceso de instalación aparecen distintas opciones de configuración. En 
 
 Después solicita la elección de una variante, donde se puede elegir entre JavaScript o TypeScript. JavaScript utiliza el estándar más común que no requiere tipos estrictos, de esta forma se simplifica el código si no se necesitan demasiadas validaciones de tipo.
 
-![Imagen SSH](./img/image1.png)
-![Imagen SSH](./img/image2.png)
+![Imagen SSH](./img/selectFramework.png)
+![Imagen SSH](./img/selectVariant.png)
 
 ## Instalar dependencias
 
@@ -45,7 +45,7 @@ Este comando instala todas las dependencias necesarias que estarán definidas en
 
 Este comando ejecuta el servidor de desarrollo de Vite. Inicia un servidor local, que sirve para mostrar la aplicación web en el navegador con el puerto `:5173`.
 
-![Imagen SSH](./img/image.png)
+![Imagen SSH](./img/npmInstall.png)
 
 En este punto, ya tendríamos Vite instalado.
 
